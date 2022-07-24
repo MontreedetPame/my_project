@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>เกี่ยวกับเรา</title>
+    <title>หน้าสมาชิก</title>
 </head>
 <body>
-    หน้าเกี่ยวกับเรา
+    หน้าแสดงส่วนของสมาชิก
 </body>
 </html>
